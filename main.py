@@ -1,5 +1,6 @@
 import pygame
 from player import Player
+from planter import Planter
 
 pygame.init()
 
