@@ -19,7 +19,6 @@ running = True
 clock = pygame.time.Clock()
 block = Player(200, 300, 20, 20)
 
-block.setMove(3)
 
 # Main game loop
 def main(running):
